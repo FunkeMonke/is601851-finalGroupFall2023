@@ -5,6 +5,7 @@ import { getMenuFiles } from '../lib/menu_posts.js';
 import { getTestimonyFiles } from '../lib/testimony_posts.js';
 import GoogleAnalytics from '../components/GoogleAnalyytics';
 import CookieBanner from '../components/cookiebanner';
+import NewsLetterSignUpForm from '../components/signupform';
 
 export async function getStaticProps() {
   const menu = getMenuFiles();
@@ -18,7 +19,7 @@ export async function getStaticProps() {
   };
 }
 
-export default function Home({menu, testimonies}) {
+export default function Home({menu, testimonies, signup}) {
   return (
     <div className={styles.container}>
       <Head>
@@ -56,6 +57,7 @@ export default function Home({menu, testimonies}) {
 
 
       <footer className={styles.footer}>
+        <NewsLetterSignUpForm />
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
