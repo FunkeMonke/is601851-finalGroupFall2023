@@ -1,5 +1,9 @@
 # is601851-finalGroupFall2023
 
+# Grading
+## Grading individual issues
+We made labels for the issues we claimed for ourselves. Mohammad has the "Mohammad" label while Erik has the "Erik" label. Use that to help navigate our issues.
+
 # Meeting Sign-In Sheet
 
 We met regularly weekly we just forgot to update the github as we went on.
