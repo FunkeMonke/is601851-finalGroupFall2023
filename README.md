@@ -2,7 +2,7 @@
 
 # Meeting Sign-In Sheet
 
-
+We met regularly weekly we just forgot to update the github as we went on.
 ### November 2023
 
 | Date        | Erik | Mohammad | 
