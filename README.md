@@ -3,6 +3,8 @@
 # Grading
 ## Grading individual issues
 We made labels for the issues we claimed for ourselves. Mohammad has the "Mohammad" label while Erik has the "Erik" label. Use that to help navigate our issues.
+## Playwright
+We also made labels for the playwright tests called "Playwright Tests" to make it a bit easier to navigate.
 
 # Meeting Sign-In Sheet
 
